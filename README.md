@@ -1,6 +1,7 @@
 # INDIA-GENERAL-ELECTIONS-RESULT-ANALYSIS-2024
 
-![](https://www.financialexpress.com/wp-content/uploads/2023/09/LOK-SABHA-ELECTION-2024.jpg)
+![](![image](https://github.com/user-attachments/assets/d92360da-ca88-469b-a796-1e9948366822)
+)
 
 ## Overview 
 
