@@ -34,8 +34,8 @@ GROUP BY
 ORDER BY 
     s.State;
 /*Results:
-
 Shows the total number of seats available for elections in each state, e.g., Andhra Pradesh - 25 Uttar Pradesh - 80 seats, Maharashtra - 48 seats, etc.*/
+
 
 --Total Seats Won by NDA Allianz
 SELECT 
@@ -60,7 +60,6 @@ SELECT
 FROM 
     partywise_results
 /*Results:
-
 Total seats won by NDA Alliance across all constituencies, e.g., 292 seats.*/
 
 	
@@ -123,7 +122,6 @@ SELECT
 FROM 
     partywise_results
 /*Results:
-
 Total seats won by I.N.D.I.A. Alliance, e.g., 234 seats*/
 	
 
@@ -231,6 +229,7 @@ ORDER BY
 /*Results:
 Displays total seats won by each alliance, e.g., NDA: 292 seats, I.N.D.I.A.: 234 seats, OTHER: 17 seats*/
 
+
 ---Winning candidate's name, their party name, total votes, and the margin of victory for a specific state and constituency?
 SELECT cr.Winning_Candidate, p.Party, p.party_alliance, cr.Total_Votes, cr.Margin, cr.Constituency_Name, s.State
 FROM constituencywise_results cr
@@ -306,6 +305,7 @@ ORDER BY
 /*Results:
 Andaman & Nicobar Islands - NDA - 1, Andhra Pradesh - NDA - 21, Other - 4
 Arunachal Pradesh NDA - 2, Assam NDA - 10 I.N.D.I.A - 3 Other - 1*/
+
 
 ---Which candidate received the highest number of EVM votes in each constituency (Top 10)?
 SELECT TOP 10
