@@ -1,5 +1,6 @@
 Create database Indain_Election_results;
 
+--Retrieving data from Database
 select * from constituencywise_details
 
 select * from constituencywise_results
@@ -10,12 +11,12 @@ select * from states
 
 select * from statewise_results
 
----Total Seats----
+---Total Seats
 SELECT 
 DISTINCT COUNT(Parliament_Constituency) AS Total_Seats 
 FROM constituencywise_results;
 
----What is the total number of seats available for elections in each state---
+---What is the total number of seats available for elections in each state
 SELECT 
     s.State AS State_Name,
     COUNT(cr.Constituency_ID) AS Total_Seats_Available
