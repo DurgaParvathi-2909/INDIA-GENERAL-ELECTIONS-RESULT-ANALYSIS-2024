@@ -1,7 +1,7 @@
 # INDIA-GENERAL-ELECTIONS-RESULT-ANALYSIS-2024
 
-![](![image](https://github.com/user-attachments/assets/d92360da-ca88-469b-a796-1e9948366822)
-)
+![]![image](https://github.com/user-attachments/assets/d92360da-ca88-469b-a796-1e9948366822)
+
 
 ## Overview 
 
