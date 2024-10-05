@@ -1,4 +1,4 @@
-## India General Elections Result Analysis 2024
+## Indian General Elections Result Analysis 2024
 ![image](https://github.com/user-attachments/assets/52eec3f4-8bdb-4ed5-8aa5-244b41fa037d)
 
 
